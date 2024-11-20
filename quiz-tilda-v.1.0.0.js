@@ -858,7 +858,7 @@ function quizResult30() {
 
         ( inputStep1 == 'wavy' && inputStep2 == 'fine' && inputStep3 == 'dry' && ( (inputStep4 == 'hydration' && inputStep4_2 == 'frizz') || (inputStep4 == 'frizz' && inputStep4_2 == 'hydration') ) ) ||
         ( inputStep1 == 'wavy' && inputStep2 == 'fine' && inputStep3 == 'balanced' && ( (inputStep4 == 'hydration' && inputStep4_2 == 'frizz') || (inputStep4 == 'frizz' && inputStep4_2 == 'hydration') ) ) ||
-        ( inputStep1 == 'wavy' && inputStep2 == 'fine' && inputStep3 == 'oily' && ( (inputStep4 == 'hydration' && inputStep4_2 == 'frizz') || (inputStep4 == 'frizz' && inputStep4_2 == 'hydration') ) )
+        ( inputStep1 == 'wavy' && inputStep2 == 'fine' && inputStep3 == 'oily' && ( (inputStep4 == 'hydration' && inputStep4_2 == 'frizz') || (inputStep4 == 'frizz' && inputStep4_2 == 'hydration') ) ) ||
 
         ( inputStep1 == 'wavy' && inputStep2 == 'fine' && inputStep3 == 'oily' && ( (inputStep4 == 'frizz' && inputStep4_2 == '') || (inputStep4 == '' && inputStep4_2 == 'frizz') ) ) ||
         ( inputStep1 == 'wavy' && inputStep2 == 'fine' && inputStep3 == 'dry' && ( (inputStep4 == 'frizz' && inputStep4_2 == '') || (inputStep4 == '' && inputStep4_2 == 'frizz') ) ) ||
